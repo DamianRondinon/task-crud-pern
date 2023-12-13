@@ -1,0 +1,6 @@
+
+.Primeros pasos:
+- npm init -y - Creamos el package.json
+- Instalamos modulos: npm install express cookie-parser cors morgan pg zod md5 jsonwebtoken express-promise-router
+- Instalamos modulos (dependencia de desarrollo): npm i nodemon eslint -D
+- El proyecto comienza con la carpeta src

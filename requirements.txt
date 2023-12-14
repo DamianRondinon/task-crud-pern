@@ -4,3 +4,7 @@
 - Instalamos modulos: npm install express cookie-parser cors morgan pg zod md5 jsonwebtoken express-promise-router
 - Instalamos modulos (dependencia de desarrollo): npm i nodemon eslint -D
 - El proyecto comienza con la carpeta src
+- Arranque del proyecto - npm run dev
+
+.Prueba de peticiones con thunder client
+
